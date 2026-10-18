@@ -1,0 +1,12 @@
+
+{
+    "name": "student/php-lab3",
+    "description": "Лабораторная работа №3",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
